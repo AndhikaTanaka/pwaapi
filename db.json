@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Nubian bee-eater","category":"Blue"},
+{"id":2,"name":"Seal, harbor","category":"Yellow"},
+{"id":3,"name":"Armadillo, seven-banded","category":"Mauv"},
+{"id":4,"name":"Squirrel, indian giant","category":"Goldenrod"},
+{"id":5,"name":"Vine snake (unidentified)","category":"Aquamarine"},
+{"id":6,"name":"Common turkey","category":"Pink"},
+{"id":7,"name":"Small-toothed palm civet","category":"Yellow"},
+{"id":8,"name":"Blackish oystercatcher","category":"Orange"},
+{"id":9,"name":"Genoveva","category":"Orange"},
+{"id":10,"name":"Otter, north american river","category":"Fuscia"},
+{"id":11,"name":"Lily trotter","category":"Maroon"},
+{"id":12,"name":"Snowy sheathbill","category":"Mauv"},
+{"id":13,"name":"Ring dove","category":"Purple"},
+{"id":14,"name":"Waxbill, violet-eared","category":"Purple"},
+{"id":15,"name":"Dama wallaby","category":"Indigo"},
+{"id":16,"name":"Cormorant, neotropic","category":"Goldenrod"},
+{"id":17,"name":"Iguana, marine","category":"Goldenrod"},
+{"id":18,"name":"Monitor lizard (unidentified)","category":"Purple"},
+{"id":19,"name":"Mallard","category":"Puce"},
+{"id":20,"name":"Least chipmunk","category":"Yellow"}]
+}
